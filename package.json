@@ -1,0 +1,10 @@
+{
+  "name": "wakefulblock262.github.io",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Developer portfolio with animations, GitHub repos, and TypeScript setup.",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w"
+  }
+}
